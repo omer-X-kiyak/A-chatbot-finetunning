@@ -7,15 +7,31 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
+            margin: 20px;
         }
         h1, h2 {
             color: #333;
+            border-bottom: 1px solid #333;
+            padding-bottom: 5px;
+        }
+        h3 {
+            margin-top: 20px;
+            color: #555;
         }
         pre {
             background-color: #f4f4f4;
             padding: 10px;
             border-radius: 5px;
             overflow-x: auto;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        code {
+            background-color: #f0f0f0;
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-family: Consolas, Monaco, 'Andale Mono', monospace;
         }
         ul {
             list-style-type: disc;
