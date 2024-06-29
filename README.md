@@ -8,6 +8,7 @@
             font-family: Arial, sans-serif;
             line-height: 1.6;
             padding: 20px;
+            color: #333;
         }
         h1, h2 {
             color: #333;
